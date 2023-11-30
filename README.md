@@ -3,6 +3,9 @@ HCL AppScan Activity Recorder downloadble from [here](https://chrome.google.com/
 
 This public Git repository includes an unpublished version of HCL AppScan Activity Recorder chrome extension with auto updates turned off. To use this version, follow the instructions as mentioned below:
 
+**Note:**
+Date: 30 Nov 2023: Henceforth Chrome does not allow installation of Chrome extensions from outside the Chrome web store. On installation of this unpublished version below error will be received "This extension is not listed in the Chrome Web Store and may have been added without your knowledge". Users are advised to install the chrome extension from [here](https://chrome.google.com/webstore/detail/appscan-activity-recorder/ijbfdoojnepibegmkhhilmeijonibmcn?hl=en) until this issue is addressed by Chrome.
+
 ## Installation Instructions
 - Download the latest crx file from Releases section, to your local machine.
 - Navigate to chrome://extensions/ in Chrome Browser address bar.
